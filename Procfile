@@ -1,0 +1,1 @@
+web: gunicorn ebix_auto_vistoria.wsgi --log-file -
