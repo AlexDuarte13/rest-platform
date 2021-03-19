@@ -6,7 +6,7 @@ dj-static==0.0.6
 Django==2.2.5
 django-cors-headers==3.1.1
 django-filter==2.2.0
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 google-api-core==1.14.3
 google-auth==1.6.3
 google-cloud==0.34.0
